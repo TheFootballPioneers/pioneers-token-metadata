@@ -1,6 +1,7 @@
 {
-  "name": "The Football Pioneers", 
-  "symbol": "TFP", 
-  "uri": "https://deine-url.com/metadata.json", 
+  "name": "The Football Pioneers",
+  "symbol": "TFP",
+  "uri": "https://raw.githubusercontent.com/TheFootballPioneers/pioneers-token-metadata/main/metadata.json",
   "uriHash": "QmT5RjZa45...."
 }
+
